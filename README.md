@@ -64,11 +64,10 @@ LLM Fine-tuning | Model Evaluation | Knowledge Graphs | Graph Databases | Real-t
 
 ---
 
-### 🧾 Certifications & Achievements
-
 🏅 **Certifications**
 - 🎓 *Workshop on “Large Language Models and Their Applications”* — hosted by Coimbatore Institute of Technology & Microsoft Research India  
-  ![Badge]([https://img.shields.io/badge/Microsoft%20Research%20India-LLM%20Workshop-blue?logo=microsoft](https://drive.google.com/file/d/1BzgUygyRsWHGX9JV13iicz5TwkyohT5t/view?usp=drive_link))
+  [![Badge](https://img.shields.io/badge/Microsoft%20Research%20India-LLM%20Workshop-blue?logo=microsoft)](https://drive.google.com/file/d/1BzgUygyRsWHGX9JV13iicz5TwkyohT5t/view?usp=drive_link)
+
 
 ---
 
