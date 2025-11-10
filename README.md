@@ -114,7 +114,7 @@ LLM Fine-tuning | Model Evaluation | Knowledge Graphs | Graph Databases | Real-t
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiva2004-11&repo=Coastal-Safety-Predictor&theme=radical)](https://github.com/Shiva2004-11/Coastal-Safety-Predictor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiva2004-11&repo=Job-Recommendation-System&theme=radical)](https://github.com/Shiva2004-11/Job-Recommendation-System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiva2004-11&repo=diabetes-prediction-app&theme=radical)](https://github.com/Shiva2004-11/diabetes-prediction-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiva2004-11&repo=AI-Based-Pothole-Detection-System&theme=radical)](https://github.com/Shiva2004-11/AI-Based-Pothole-Detection-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiva2004-11&repo=AI-based-pothole-detection-system&theme=radical)](https://github.com/Shiva2004-11/AI-Based-Pothole-Detection-System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiva2004-11&repo=Spotify-Data-Analysis-Power-Bi&theme=radical)](https://github.com/Shiva2004-11/Spotify-Data-Analysis-Power-Bi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiva2004-11&repo=stockapp&theme=radical)](https://github.com/Shiva2004-11/stockapp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiva2004-11&repo=Bacteria-Prediction&theme=radical)](https://github.com/Shiva2004-11/Bacteria-Prediction)
