@@ -73,11 +73,13 @@ LLM Fine-tuning | Model Evaluation | Knowledge Graphs | Graph Databases | Real-t
 
 🏆 **Hackathons & Research Events**
 - 🚀 *E-SUMMIT 2024 (VIT Chennai)* – *Coastal Erosion Prediction and Flood Warning System*  
-  ![Badge]([https://img.shields.io/badge/VIT%20E--SUMMIT%202024-Hackathon-success?logo=github](https://drive.google.com/file/d/1CVqa9iZJ2Ep2pRTxedDGZ91J8rgWHYKO/view?usp=drive_link))
+  [![Badge](https://img.shields.io/badge/VIT%20E--SUMMIT%202024-Hackathon-success?logo=github)](https://drive.google.com/file/d/1CVqa9iZJ2Ep2pRTxedDGZ91J8rgWHYKO/view?usp=drive_link)
+
 - 🧩 *Computing Research Day 2024 (CIT)* – *Crop Recommendation System (Poster Presentation)*  
-  ![Badge]([https://img.shields.io/badge/Computing%20Research%20Day-Poster%20Presentation-blue](https://drive.google.com/file/d/1rOkge5efqbstwsTPRW88SuT-xRV7zRdf/view?usp=drive_link))
+  [![Badge](https://img.shields.io/badge/Computing%20Research%20Day-Poster%20Presentation-blue)](https://drive.google.com/file/d/1rOkge5efqbstwsTPRW88SuT-xRV7zRdf/view?usp=drive_link)
+
 - 💡 *Hack O’ Holics 5.0 (St. Joseph’s College)* – *AI-driven Public Safety Network*  
-  ![Badge]([https://img.shields.io/badge/Hackathon-AI%20Innovation-purple](https://drive.google.com/file/d/1Sps5HdUUrK7WWiHU8iRPbD_tapRo39Pb/view?usp=drive_link))
+  [![Badge](https://img.shields.io/badge/Hackathon-AI%20Innovation-purple)](https://drive.google.com/file/d/1Sps5HdUUrK7WWiHU8iRPbD_tapRo39Pb/view?usp=drive_link)
 
 
 ---
